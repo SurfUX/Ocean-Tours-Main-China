@@ -86,14 +86,12 @@
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              <div
-                class="col-lg-4 col-md-6 gallery-item isotope-item filter-hongkong"
-              >
+              <div class="col-lg-4 col-md-6 gallery-item isotope-item filter-hongkong" >
                 <div class="gallery-wrapper">
                   <img
                     src="assets/img/hotel/h1.jpg"
                     class="img-fluid"
-                    alt="Deluxe Room"
+                    alt="Hong Kong"
                   />
                   <div class="gallery-overlay">
                     <a
@@ -108,14 +106,12 @@
               </div>
               <!-- End Gallery Item -->
 
-              <div
-                class="col-lg-8 col-md-6 gallery-item isotope-item filter-china"
-              >
+              <div class="col-lg-8 col-md-6 gallery-item isotope-item filter-china">
                 <div class="gallery-wrapper">
                   <img
                     src="assets/img/hotel/c1.jpg"
                     class="img-fluid"
-                    alt="Swimming Pool"
+                    alt="China"
                   />
                   <div class="gallery-overlay">
                     <a
@@ -130,18 +126,16 @@
               </div>
               <!-- End Gallery Item -->
 
-              <div
-                class="col-lg-4 col-md-6 gallery-item isotope-item filter-philipines"
-              >
+              <div  class="col-lg-4 col-md-6 gallery-item isotope-item filter-philipines">
                 <div class="gallery-wrapper">
                   <img
-                    src="assets/img/hotel/p1.jpg"
+                    src="assets/img/hotel/p1.webp"
                     class="img-fluid"
-                    alt="Restaurant"
+                    alt="Philipines"
                   />
                   <div class="gallery-overlay">
                     <a
-                      href="assets/img/hotel/p1.jpg"
+                      href="assets/img/hotel/p1.webp"
                       class="glightbox"
                       title="Philipines"
                     >
@@ -152,14 +146,31 @@
               </div>
               <!-- End Gallery Item -->
 
-              <div
-                class="col-lg-4 col-md-6 gallery-item isotope-item filter-hongkong"
-              >
+              <div class="col-lg-4 col-md-6 gallery-item isotope-item filter-indian">
+                <div class="gallery-wrapper">
+                  <img
+                    src="assets/img/hotel/i1.jpg"
+                    class="img-fluid"
+                    alt="Indian Subcontinental"
+                  />
+                  <div class="gallery-overlay">
+                    <a
+                      href="assets/img/hotel/i1.jpg"
+                      class="glightbox"
+                      title="Indian Subcontinental"
+                    >
+                      <i class="bi bi-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <!-- End Gallery Item -->
+               <div class="col-lg-4 col-md-6 gallery-item isotope-item filter-hongkong" >
                 <div class="gallery-wrapper">
                   <img
                     src="assets/img/hotel/h2.jpg"
                     class="img-fluid"
-                    alt="Executive Suite"
+                    alt="Hong Kong"
                   />
                   <div class="gallery-overlay">
                     <a
@@ -174,36 +185,12 @@
               </div>
               <!-- End Gallery Item -->
 
-              <div
-                class="col-lg-8 col-md-6 gallery-item isotope-item filter-indian"
-              >
-                <div class="gallery-wrapper">
-                  <img
-                    src="assets/img/hotel/i1.jpg"
-                    class="img-fluid"
-                    alt="Hotel Exterior"
-                  />
-                  <div class="gallery-overlay">
-                    <a
-                      href="assets/img/hotel/i1.jpg"
-                      class="glightbox"
-                      title="Indian Subcontinental"
-                    >
-                      <i class="bi bi-eye"></i>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <!-- End Gallery Item -->
-
-              <div
-                class="col-lg-4 col-md-6 gallery-item isotope-item filter-china"
-              >
+              <div class="col-lg-8 col-md-6 gallery-item isotope-item filter-china">
                 <div class="gallery-wrapper">
                   <img
                     src="assets/img/hotel/c2.jpg"
                     class="img-fluid"
-                    alt="Spa"
+                    alt="China"
                   />
                   <div class="gallery-overlay">
                     <a
@@ -218,20 +205,18 @@
               </div>
               <!-- End Gallery Item -->
 
-              <div
-                class="col-lg-4 col-md-6 gallery-item isotope-item filter-philipines"
-              >
+              <div  class="col-lg-4 col-md-6 gallery-item isotope-item filter-philipines">
                 <div class="gallery-wrapper">
                   <img
                     src="assets/img/hotel/p2.jpg"
                     class="img-fluid"
-                    alt="Bar Lounge"
+                    alt="Philipines"
                   />
                   <div class="gallery-overlay">
                     <a
                       href="assets/img/hotel/p2.jpg"
                       class="glightbox"
-                      title="Rooftop Bar &amp; Lounge"
+                      title="Philipines"
                     >
                       <i class="bi bi-eye"></i>
                     </a>
@@ -240,14 +225,31 @@
               </div>
               <!-- End Gallery Item -->
 
-              <div
-                class="col-lg-4 col-md-6 gallery-item isotope-item filter-hongkong"
-              >
+              <div class="col-lg-4 col-md-6 gallery-item isotope-item filter-indian">
+                <div class="gallery-wrapper">
+                  <img
+                    src="assets/img/hotel/i2.jpg"
+                    class="img-fluid"
+                    alt="Indian Subcontinental"
+                  />
+                  <div class="gallery-overlay">
+                    <a
+                      href="assets/img/hotel/i2.jpg"
+                      class="glightbox"
+                      title="Indian Subcontinental"
+                    >
+                      <i class="bi bi-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <!-- End Gallery Item -->
+                <div class="col-lg-4 col-md-6 gallery-item isotope-item filter-hongkong" >
                 <div class="gallery-wrapper">
                   <img
                     src="assets/img/hotel/h3.jpg"
                     class="img-fluid"
-                    alt="Presidential Suite"
+                    alt="Hong Kong"
                   />
                   <div class="gallery-overlay">
                     <a
@@ -262,14 +264,12 @@
               </div>
               <!-- End Gallery Item -->
 
-              <div
-                class="col-lg-4 col-md-6 gallery-item isotope-item filter-china"
-              >
+              <div class="col-lg-8 col-md-6 gallery-item isotope-item filter-china">
                 <div class="gallery-wrapper">
                   <img
                     src="assets/img/hotel/c3.jpg"
                     class="img-fluid"
-                    alt="Fitness Center"
+                    alt="China"
                   />
                   <div class="gallery-overlay">
                     <a
@@ -283,79 +283,13 @@
                 </div>
               </div>
               <!-- End Gallery Item -->
-              <div
-                class="col-lg-4 col-md-6 gallery-item isotope-item filter-china"
-              >
-                <div class="gallery-wrapper">
-                  <img
-                    src="assets/img/hotel/c4.jpg"
-                    class="img-fluid"
-                    alt="Fitness Center"
-                  />
-                  <div class="gallery-overlay">
-                    <a
-                      href="assets/img/hotel/c4.jpg"
-                      class="glightbox"
-                      title="China"
-                    >
-                      <i class="bi bi-eye"></i>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <!-- End Gallery Item -->
-              <div
-                class="col-lg-4 col-md-6 gallery-item isotope-item filter-hongkong"
-              >
-                <div class="gallery-wrapper">
-                  <img
-                    src="assets/img/hotel/h4.jpg"
-                    class="img-fluid"
-                    alt="Junior Suite"
-                  />
-                  <div class="gallery-overlay">
-                    <a
-                      href="assets/img/hotel/h4.jpg"
-                      class="glightbox"
-                      title="Hong Kong"
-                    >
-                      <i class="bi bi-eye"></i>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <!-- End Gallery Item -->
 
-              <div
-                class="col-lg-4 col-md-6 gallery-item isotope-item filter-indian"
-              >
-                <div class="gallery-wrapper">
-                  <img
-                    src="assets/img/hotel/i2.webp"
-                    class="img-fluid"
-                    alt="Garden View"
-                  />
-                  <div class="gallery-overlay">
-                    <a
-                      href="assets/img/hotel/i2.webp"
-                      class="glightbox"
-                      title="indian Subcontinental"
-                    >
-                      <i class="bi bi-eye"></i>
-                    </a>
-                  </div>
-                </div>
-              </div>
-              <!-- End Gallery Item -->
-
-              <div
-                class="col-lg-4 col-md-6 gallery-item isotope-item filter-philipines"
-              >
+              <div  class="col-lg-4 col-md-6 gallery-item isotope-item filter-philipines">
                 <div class="gallery-wrapper">
                   <img
                     src="assets/img/hotel/p3.jpg"
                     class="img-fluid"
-                    alt="Breakfast Area"
+                    alt="Philipines"
                   />
                   <div class="gallery-overlay">
                     <a
@@ -370,18 +304,35 @@
               </div>
               <!-- End Gallery Item -->
 
-              <div
-                class="col-lg-4 col-md-6 gallery-item isotope-item filter-hongkong"
-              >
+              <div class="col-lg-4 col-md-6 gallery-item isotope-item filter-indian">
                 <div class="gallery-wrapper">
                   <img
-                    src="assets/img/hotel/h5.webp"
+                    src="assets/img/hotel/i3.jpg"
                     class="img-fluid"
-                    alt="Junior Suite"
+                    alt="Indian Subcontinental"
                   />
                   <div class="gallery-overlay">
                     <a
-                      href="assets/img/hotel/h5.webp"
+                      href="assets/img/hotel/i3.jpg"
+                      class="glightbox"
+                      title="Indian Subcontinental"
+                    >
+                      <i class="bi bi-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <!-- End Gallery Item -->
+               <div class="col-lg-4 col-md-6 gallery-item isotope-item filter-hongkong" >
+                <div class="gallery-wrapper">
+                  <img
+                    src="assets/img/hotel/h4.jpg"
+                    class="img-fluid"
+                    alt="Hong Kong"
+                  />
+                  <div class="gallery-overlay">
+                    <a
+                      href="assets/img/hotel/h4.jpg"
                       class="glightbox"
                       title="Hong Kong"
                     >
@@ -391,6 +342,79 @@
                 </div>
               </div>
               <!-- End Gallery Item -->
+
+              <div class="col-lg-8 col-md-6 gallery-item isotope-item filter-china">
+                <div class="gallery-wrapper">
+                  <img
+                    src="assets/img/hotel/c4.jpg"
+                    class="img-fluid"
+                    alt="China"
+                  />
+                  <div class="gallery-overlay">
+                    <a
+                      href="assets/img/hotel/c4.jpg"
+                      class="glightbox"
+                      title="China"
+                    >
+                      <i class="bi bi-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <!-- End Gallery Item -->
+
+              <div  class="col-lg-4 col-md-6 gallery-item isotope-item filter-philipines">
+                <div class="gallery-wrapper">
+                  <img
+                    src="assets/img/hotel/p4.jpg"
+                    class="img-fluid"
+                    alt="Philipines"
+                  />
+                  <div class="gallery-overlay">
+                    <a
+                      href="assets/img/hotel/p4.jpg"
+                      class="glightbox"
+                      title="Philipines"
+                    >
+                      <i class="bi bi-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <!-- End Gallery Item -->
+
+              <div class="col-lg-4 col-md-6 gallery-item isotope-item filter-indian">
+                <div class="gallery-wrapper">
+                  <img
+                    src="assets/img/hotel/i4.jpg"
+                    class="img-fluid"
+                    alt="Indian Subcontinental"
+                  />
+                  <div class="gallery-overlay">
+                    <a
+                      href="assets/img/hotel/i4.jpg"
+                      class="glightbox"
+                      title="Indian Subcontinental"
+                    >
+                      <i class="bi bi-eye"></i>
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <!-- End Gallery Item -->
+
+              
+
+             
+
+
+
+
+             
+           
+
+             
+
             </div>
             <!-- End Hotel Gallery Items Container -->
           </div>

@@ -74,7 +74,7 @@
 
         <!-- Beijing -->
         <div class="col-lg-4 col-md-6" data-aos="zoom-in">
-          <a href="https://surfux.com" class="text-decoration-none">
+          <a  class="text-decoration-none">
             <div class="attraction-item">
               <div class="attraction-photo">
                 <img src="assets/img/hotel/beiging.jpg" class="img-fluid">
@@ -89,7 +89,7 @@
 
         <!-- Shanghai -->
         <div class="col-lg-4 col-md-6" data-aos="zoom-in">
-          <a href="https://surfux.com" class="text-decoration-none">
+          <a  class="text-decoration-none">
             <div class="attraction-item">
               <div class="attraction-photo">
                 <img src="assets/img/hotel/shanghai.png" class="img-fluid">
@@ -104,7 +104,7 @@
 
         <!-- Xian -->
         <div class="col-lg-4 col-md-6" data-aos="zoom-in">
-          <a href="https://surfux.com" class="text-decoration-none">
+          <a  class="text-decoration-none">
             <div class="attraction-item">
               <div class="attraction-photo">
                 <img src="assets/img/hotel/xian.jpg" class="img-fluid">
@@ -119,7 +119,7 @@
 
         <!-- Zhangjiajie -->
         <div class="col-lg-4 col-md-6" data-aos="zoom-in">
-          <a href="https://surfux.com" class="text-decoration-none">
+          <a  class="text-decoration-none">
             <div class="attraction-item">
               <div class="attraction-photo">
                 <img src="assets/img/hotel/Zhang.jpg" class="img-fluid">
@@ -134,7 +134,7 @@
 
         <!-- Chengdu -->
         <div class="col-lg-4 col-md-6" data-aos="zoom-in">
-          <a href="https://surfux.com" class="text-decoration-none">
+          <a  class="text-decoration-none">
             <div class="attraction-item">
               <div class="attraction-photo">
                 <img src="assets/img/hotel/xing.webp" class="img-fluid">
@@ -149,7 +149,7 @@
 
         <!-- Guilin -->
         <div class="col-lg-4 col-md-6" data-aos="zoom-in">
-          <a href="https://surfux.com" class="text-decoration-none">
+          <a  class="text-decoration-none">
             <div class="attraction-item">
               <div class="attraction-photo">
                 <img src="assets/img/hotel/chen.jpg" class="img-fluid">
