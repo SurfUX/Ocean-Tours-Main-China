@@ -234,10 +234,10 @@
                   our expert team is ready to craft your perfect China itinerary.
                 </p>
                 <div class="cta-buttons">
-                  <a href="destinations.html" class="btn btn-primary me-3">
+                  <a href="https://wa.me/17788893359?text=Hello%20Great%20Ocean%20Tours%20%F0%9F%91%8B%0AI%E2%80%99m%20interested%20in%20booking%20a%20China%20tour.%0ACould%20you%20please%20share%20available%20packages%2C%20dates%2C%20and%20pricing%3F%0AThank%20you%21" target="_blank" class="btn btn-primary me-3">
                     Explore Destinations
                   </a>
-                  <a href="contact.html" class="btn btn-outline">
+                  <a href="https://wa.me/17788893359?text=Hello%20Great%20Ocean%20Tours%20%F0%9F%91%8B%0AI%E2%80%99m%20interested%20in%20booking%20a%20China%20tour.%0ACould%20you%20please%20share%20available%20packages%2C%20dates%2C%20and%20pricing%3F%0AThank%20you%21" target="_blank" class="btn btn-outline">
                     Speak with a Travel Expert
                   </a>
                 </div>
