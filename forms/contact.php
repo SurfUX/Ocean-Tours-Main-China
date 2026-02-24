@@ -24,9 +24,8 @@ try {
     $mail->addReplyTo($_POST['email'], $_POST['name']);
 
     // Recipients
-    $mail->addAddress('gihan@surfux.com');
-    $mail->addAddress('b2bin@got-hk.com');
-    $mail->addAddress('gihansupunkdu@gmail.com');
+    
+    $mail->addAddress('tecnetsoftwaresolution@gmail.com');
 
     // Content
     $mail->isHTML(true);
